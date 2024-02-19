@@ -1,0 +1,44 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Nico\Documents\Atmel Studio\7.0\Prelaboratorio3\Prelaboratorio3\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Nico\Documents\Atmel Studio\7.0\Prelaboratorio3\Prelaboratorio3\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Nico\Documents\Atmel Studio\7.0\Prelaboratorio3\Prelaboratorio3\Debug\Prelaboratorio3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Prelaboratorio3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Prelaboratorio3.map</FILE>
+  <FILE>Prelaboratorio3.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>C:\Users\Nico\Documents\Atmel Studio\7.0\Prelaboratorio3\Prelaboratorio3\main.asm</FILE><LINE>22</LINE></main>
+  <ISR_PCINT0><FILE>C:\Users\Nico\Documents\Atmel Studio\7.0\Prelaboratorio3\Prelaboratorio3\main.asm</FILE><LINE>167</LINE></ISR_PCINT0>
+  <ISR_TIMER0_OVF><FILE>C:\Users\Nico\Documents\Atmel Studio\7.0\Prelaboratorio3\Prelaboratorio3\main.asm</FILE><LINE>130</LINE></ISR_TIMER0_OVF>
+  <TABLA7SEG><FILE>C:\Users\Nico\Documents\Atmel Studio\7.0\Prelaboratorio3\Prelaboratorio3\main.asm</FILE><LINE>33</LINE></TABLA7SEG>
+  <setup><FILE>C:\Users\Nico\Documents\Atmel Studio\7.0\Prelaboratorio3\Prelaboratorio3\main.asm</FILE><LINE>38</LINE></setup>
+  <IdelayT0><FILE>C:\Users\Nico\Documents\Atmel Studio\7.0\Prelaboratorio3\Prelaboratorio3\main.asm</FILE><LINE>118</LINE></IdelayT0>
+  <loop><FILE>C:\Users\Nico\Documents\Atmel Studio\7.0\Prelaboratorio3\Prelaboratorio3\main.asm</FILE><LINE>81</LINE></loop>
+  <Delay><FILE>C:\Users\Nico\Documents\Atmel Studio\7.0\Prelaboratorio3\Prelaboratorio3\main.asm</FILE><LINE>88</LINE></Delay>
+  <delay1><FILE>C:\Users\Nico\Documents\Atmel Studio\7.0\Prelaboratorio3\Prelaboratorio3\main.asm</FILE><LINE>90</LINE></delay1>
+  <Delay3><FILE>C:\Users\Nico\Documents\Atmel Studio\7.0\Prelaboratorio3\Prelaboratorio3\main.asm</FILE><LINE>104</LINE></Delay3>
+  <delay2><FILE>C:\Users\Nico\Documents\Atmel Studio\7.0\Prelaboratorio3\Prelaboratorio3\main.asm</FILE><LINE>107</LINE></delay2>
+  <display><FILE>C:\Users\Nico\Documents\Atmel Studio\7.0\Prelaboratorio3\Prelaboratorio3\main.asm</FILE><LINE>160</LINE></display>
+  <b1><FILE>C:\Users\Nico\Documents\Atmel Studio\7.0\Prelaboratorio3\Prelaboratorio3\main.asm</FILE><LINE>182</LINE></b1>
+  <b2><FILE>C:\Users\Nico\Documents\Atmel Studio\7.0\Prelaboratorio3\Prelaboratorio3\main.asm</FILE><LINE>187</LINE></b2>
+  <leds><FILE>C:\Users\Nico\Documents\Atmel Studio\7.0\Prelaboratorio3\Prelaboratorio3\main.asm</FILE><LINE>201</LINE></leds>
+  <incrementar><FILE>C:\Users\Nico\Documents\Atmel Studio\7.0\Prelaboratorio3\Prelaboratorio3\main.asm</FILE><LINE>192</LINE></incrementar>
+  <decrementar><FILE>C:\Users\Nico\Documents\Atmel Studio\7.0\Prelaboratorio3\Prelaboratorio3\main.asm</FILE><LINE>196</LINE></decrementar>
+ </LABELS>
+</ASSEMBLER_INFO>
